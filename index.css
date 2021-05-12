@@ -1,0 +1,7 @@
+.hedr {
+  background-color: black;
+}
+.tekst {
+  display: flex;
+  align-items: center;
+}
