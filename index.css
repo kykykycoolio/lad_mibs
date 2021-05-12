@@ -1,7 +1,7 @@
-.hedr {
+.header {
   background-color: black;
 }
-.tekst {
+.logo {
   display: flex;
   align-items: center;
 }
