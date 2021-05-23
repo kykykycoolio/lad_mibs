@@ -1,12 +1,10 @@
-// Selectors
-const header = document.getElementsByClassName("header")[0];
+// Selector
 
-function goToGoogle() {
-  alert("Logo was clicked");
+function toggleColorScheme() {
+  alert("Change Color Scheme Clicked");
 }
-function changeHeaderPink() {
-  header.style.background = "pink";
-}
-function changeHeaderYellow() {
-  header.style.background = "yellow";
-}
+
+/**
+ * - Finish design and add remaining elements to the header (Kyler)
+ * - Add JS to Kylers header to make it interactive (Jameson)
+ */
